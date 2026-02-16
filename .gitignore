@@ -1,0 +1,3 @@
+__pycache__/
+*.pyc
+analytics_audit.db
